@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nome": "Página Inicial Neflix",
+      "descricao": "Site da Netflix Responsivo (HTML - CSS - JS)"
+    },
+    {
+      "id": 2,
+      "nome": "Rest Api - Biblioteca em Java",
+      "descricao": "Bakc End de programa gerenciador de biblioteca com spring framework"
+    },
+    {
+      "id": 3,
+      "nome": "Estrutura de dados - Java, C, Python",
+      "descricao": "Implementação de estrututra de dados em Java, C e Python"
+    }
+  ]
